@@ -38,7 +38,7 @@
         "leafo/scssphp": "^0.7.7"
     },
     "require-dev": {
-        "guzzlehttp/guzzle": "~6",
+        "guzzlehttp/guzzle": "~7",
         "glpi-project/coding-standard": "^0.7.1",
         "consolidation/robo": "^1.0",
         "natxet/CssMin": "^3.0",
